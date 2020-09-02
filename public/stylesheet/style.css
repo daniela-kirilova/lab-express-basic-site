@@ -1,0 +1,38 @@
+ body{
+     background-color: rgb(223, 247, 243);
+ }
+ 
+ h1{
+    color: rgb(27, 27, 41);
+    font-size: 40pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+ }
+ p  {
+     
+    font-size: 25pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .bands{
+     color: rgb(27, 27, 41);
+     font-size: 34pt;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ a{
+    font-size: 22pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+ }
+ img{
+     height: 50%;
+     width: 50%;
+      
+ }
